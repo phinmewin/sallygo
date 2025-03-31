@@ -1,0 +1,49 @@
+Privacy Policy
+Effective Date: 31/03/2025
+
+1. Introduction
+This Privacy Policy explains how the [Your App Name] ("the App") collects, uses, and safeguards your personal information when you use our local AI email assistant. The App is designed to access Gmail emails and generate draft responses using a locally hosted AI model. We are committed to protecting your privacy and ensuring your data remains secure and is processed only for the purposes outlined herein.
+
+2. Information We Collect
+Account Information:
+When you authorise access via OAuth2, the App uses credentials (such as your email address and an access token) to access your Gmail account. These credentials are stored securely on your local device and are not transmitted to external servers beyond those required for Gmail API calls.
+
+Email Content:
+The App retrieves your emails from Gmail solely for the purpose of generating draft responses. All email content is processed locally by the AI model and is not stored or transmitted to any third-party service.
+
+Usage Data:
+Minimal usage data (such as timestamps of actions and error logs) may be stored locally to improve the functionality and performance of the App. No personal data is collected for marketing or analytics purposes.
+
+3. How We Use Your Information
+Providing the Service:
+The primary use of your data is to enable the App to read emails and generate appropriate draft responses using our local AI model.
+
+Security and Compliance:
+The information is used to ensure secure authorisation and to maintain proper functioning of the App. All data handling is performed locally, minimising exposure to external networks.
+
+4. Data Storage & Security
+Local Storage:
+All data, including OAuth tokens and email content, is stored locally on your device. We do not retain or share your personal data on external servers.
+
+Security Measures:
+We implement standard local security measures, including file-level encryption (where possible) and secure storage of credentials. However, as a user, you are responsible for ensuring that your device is secure.
+
+5. Third-Party Services
+Gmail API:
+The App uses the Gmail API provided by Google solely to access your Gmail emails as authorised by you. Please review Google’s Privacy Policy for further details on how they process data during API interactions.
+
+6. User Rights
+Access & Control:
+As the App is installed locally, you have full control over your data. You may delete stored tokens or email data at any time by removing the corresponding files.
+
+No Data Sharing:
+We do not share, sell, or otherwise disclose your personal information to any third parties.
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted locally within the App, and the “Effective Date” will be updated accordingly. It is your responsibility to review this policy periodically.
+
+8. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at:
+Email: sunnymeadowpath@gmail.com
+
+
